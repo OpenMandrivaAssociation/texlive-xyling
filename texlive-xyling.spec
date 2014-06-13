@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-xyling
 Version:	1.1
-Release:	6
+Release:	7
 Summary:	Draw syntactic trees, etc., for linguistics literature, using xy-pic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xyling
