@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Draw syntactic trees, etc., for linguistics literature, using xy-pic
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xyling
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xyling
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xyling.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xyling.doc.r%{version}.tar.xz
